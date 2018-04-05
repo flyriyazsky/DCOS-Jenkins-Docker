@@ -9,7 +9,7 @@
     "portMappings": [
       {
         "containerPort": 4000,
-        "hostPort": 0,
+        "hostPort": 29600,
         "protocol": "tcp",
         "name": "jenkins-deployed-app"
       }
